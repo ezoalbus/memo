@@ -5,6 +5,7 @@
     - Windows版Python: https://www.python.org/downloads/windows/
     - あるいは、miniconda
 - パッケージのインストール
+    - poetry: https://python-poetry.org/docs/
     - python全般: flake8, ...
     - data science系: numpy, pandas, sklearn,...
     - 【備考】VS Codeでのpipによるインストール中に"WARNING: Failed to write executable - trying to use .deleteme logic"といったエラーが出る場合は以下のいずれかを実施する
